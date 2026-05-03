@@ -49,11 +49,3 @@ total_bayar = setelah_diskon + pajak
 print("Total yang harus dibayar:", format_rupiah(total_bayar))
 
 print("\n=== TERIMA KASIH ===")
-
-#promp Ai
-# BUATLAH PROGRAM KASIR BERUPA INPUT DATA BARANG (NAMA, JUMLah, dan harga) kemudian hitung total penjualan. ketentuan dalam perhitungan transakasi ada diskon berupa :
-# 1. jika pembelian barang bernilai RP 100.000 maka diskonnya 10%
-# 2. jika pembelian barang bernilai RP 250.000 maka diskonnya 15%
-# 3. jika pembelian barang bernilai >= RP 500.000 maka diskonnya 25%
-# Selanjutnya seluruh pembelian barang dikenakan pajak senilai 11%
-# tolong kerjakan tugas tersebut dalam bahasa python
